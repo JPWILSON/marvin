@@ -1,0 +1,3 @@
+[submodule "react-redux-universal-hot-example"]
+	path = react-redux-universal-hot-example
+	url = https://github.com/erikras/react-redux-universal-hot-example
